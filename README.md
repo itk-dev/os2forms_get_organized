@@ -1,2 +1,4 @@
-# os2forms_get_organized
-OS2Forms module for GetOrganized
+# OS2Forms GetOrganized
+OS2Forms module for integration with GetOrganized.
+
+
